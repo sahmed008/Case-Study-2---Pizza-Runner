@@ -4,7 +4,7 @@
 
 ## Case Study Questions
 
-### View my solution for Pizza Metrics [here](https://github.com/sahmed008/Case-Study-2---Pizza-Runner/new/main)
+### View my solution for Pizza Metrics [here]()
 ### A. Pizza Metrics
 
 1. How many pizzas were ordered?
