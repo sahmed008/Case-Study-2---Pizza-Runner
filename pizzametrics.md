@@ -63,8 +63,9 @@ ORDER BY customer_id, pizza_name;
 
 ![image](https://user-images.githubusercontent.com/104872221/227732283-eb194679-0bdc-4be2-8636-53f8c327768c.png)
 
-## 6.What was the maximum number of pizzas delivered in a single order?
+### 6. What was the maximum number of pizzas delivered in a single order?
 
+````sql
 SELECT 
  customer_orders.order_id,
  COUNT(customer_orders.pizza_id) AS number_of_orders
@@ -74,7 +75,7 @@ ON runner_orders.order_id = customer_orders.order_id
 WHERE runner_orders.distance  IS NOT NULL
 GROUP BY customer_orders.order_id
 ORDER BY number_of_orders DESC, order_id;
-
+````
 ![image](https://user-images.githubusercontent.com/104872221/227737228-9ba30b4f-a64c-46ad-9aec-63b341547298.png)
 
 
