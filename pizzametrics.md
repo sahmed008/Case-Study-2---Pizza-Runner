@@ -78,4 +78,7 @@ ORDER BY number_of_orders DESC, order_id;
 ````
 ![image](https://user-images.githubusercontent.com/104872221/227737228-9ba30b4f-a64c-46ad-9aec-63b341547298.png)
 
+### 7. For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
+
+
 
