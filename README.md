@@ -18,7 +18,7 @@
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week?
 
-### View my solution for Pizza Metrics [here](https://github.com/sahmed008/PizzaRunner_Runner-Customer-Experience/blob/main/solution.md)
+### View my solution for Runner & Customer Experience [here](https://github.com/sahmed008/PizzaRunner_Runner-Customer-Experience/blob/main/solution.md)
 ### B. Runner and Customer Experience
 
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
